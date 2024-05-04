@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalcWorld, A Basic Calculator</string>
+    <string name="textview">TextView</string>
+    <string name="minus">-</string>
+    <string name="multiply">X</string>
+    <string name="divide">÷</string>
+    <string name="plus">+</string>
+    <string name="secondInput">Enter second value</string>
+    <string name="firstinput">Enter first value</string>
+    <string name="logo">calcLogo</string>
+</resources>
